@@ -35,6 +35,11 @@
 提供 15 天全功能免费试用，满意后再订阅
 
 所有数据保存在本地，支持手动备份导出，数据完全自主可控
+<img width="957" height="580" alt="image" src="https://github.com/user-attachments/assets/abda467f-5af1-44b6-a05f-3c9e183cdf58" />
+<img width="959" height="630" alt="image" src="https://github.com/user-attachments/assets/edcd18a9-126b-4b29-badf-c47970ea7911" />
+<img width="939" height="720" alt="image" src="https://github.com/user-attachments/assets/91fde207-e9eb-4a16-ac38-01e0ec64907e" />
+<img width="940" height="742" alt="image" src="https://github.com/user-attachments/assets/94ac927e-d46c-4dcf-bd4c-2d0c22cc6c66" />
+
 
 📱 Contact Me on WeChat :zhengjinfa33
 
