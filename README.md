@@ -36,3 +36,7 @@
 
 所有数据保存在本地，支持手动备份导出，数据完全自主可控
 
+📱 Contact Me on WeChat :zhengjinfa33
+
+📧 Email:zhengjinfa33@163.com
+
